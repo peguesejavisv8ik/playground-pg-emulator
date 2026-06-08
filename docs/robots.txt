@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peguesejavisv8ik.github.io/playground-pg-emulator/sitemap.xml
